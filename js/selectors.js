@@ -17,8 +17,8 @@ function divSelector() {
   var selectDiv = $('.pics');
   return selectDiv;
 }
-;
+
 function firstListItem() {
   var firstInList = $('#pic-list li:first-child');
-  return firstInList
+  return firstInList;
 }
